@@ -36,4 +36,4 @@ python rnn.py
 
 ## Author
 
-Aleah Hassabo — [LinkedIn](https://www.linkedin.com/in/aleah-hassabo)
+Aleah Hassabo 
